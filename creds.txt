@@ -1,2 +1,0 @@
-username : sravani
-pswd : sravani@123
