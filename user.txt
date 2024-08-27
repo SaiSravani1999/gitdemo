@@ -1,2 +1,4 @@
 details of user
 processing data
+
+create avatar for user
